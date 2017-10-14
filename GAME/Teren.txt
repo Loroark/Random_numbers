@@ -1,0 +1,5 @@
+
+ile0: 267107 --> co stanowi: 26,71%
+ile1: 382388 --> co stanowi: 38,24%
+ile2: 350505 --> co stanowi: 35,05%
+Suma: 1083398
